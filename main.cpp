@@ -6,6 +6,7 @@ int main()
 int num1, num2;
 input(&num1,&num2);
 cout <<"Numbers: "<<num1 <<"; "<<num2<< end;
+cout << "summa : " <<num1 + num2 << end;
 return 0;
 }
 void input(int*, int*);
